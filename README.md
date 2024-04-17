@@ -1,0 +1,2 @@
+# firtproject
+Meni birinchi repo
